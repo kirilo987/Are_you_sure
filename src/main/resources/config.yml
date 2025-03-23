@@ -1,0 +1,18 @@
+restricted-commands:
+  - op
+  - ban
+  - pardon
+  - gamemode
+  - time
+  - weather
+  - difficulty
+  - effect
+  - enchant
+  - give
+  - clear
+  - kill
+  - tp
+  - spawnpoint
+  - setworldspawn
+  - setblock
+  - fill

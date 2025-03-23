@@ -1,0 +1,19 @@
+name: Are_you_sure
+version: '1.0-SNAPSHOT'
+main: org.kxysl1k.are_you_sure.Are_you_sure
+api-version: '1.21'
+prefix: Are-you-sure
+load: STARTUP
+authors: [ Kxysl1k ]
+description: Плагин от Kxysl1k
+website: https://kxysl1k.netlify.app/
+
+commands:
+  areyousure:
+    description: Включить/выключить плагин или перезагрузить конфигурацию.
+    usage: /areyousure <on|off|reload>
+    permission: areyousure.admin
+  sure_yes:
+    description: Подтвердить команду.
+  sure_no:
+    description: Отменить команду.
