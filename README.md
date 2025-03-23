@@ -1,6 +1,6 @@
 ### English Version
 
-```markdown
+
 # Are_you_sure Plugin
 
 ## Overview
@@ -52,11 +52,11 @@ restricted-commands:
 
 ## License
 This project is licensed under the MIT License. See the `MIT License.txt` file for details.
-```
+
 
 ### Russian Version
 
-```markdown
+
 # Плагин Are_you_sure
 
 ## Обзор
@@ -108,4 +108,3 @@ restricted-commands:
 
 ## Лицензия
 Этот проект лицензирован по лицензии MIT. Подробности см. в файле `MIT License.txt`.
-```
